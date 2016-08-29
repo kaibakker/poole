@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Process-Toolkit
+tagline:             Process-Toolkit
+url:                 http://kaibakker.github.io/poole/
 paginate:            1
 baseurl:             ""
 
